@@ -7,4 +7,4 @@ This is a Retrieval-Augmented Generation (RAG) application that allows users to 
 2. Pull the Docker image:
 
    ```bash
-   docker pull your-dockerhub-username/rag-app:latest
+   docker pull your-dockerhub-username/rag_app:latest

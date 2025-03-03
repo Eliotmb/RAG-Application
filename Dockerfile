@@ -17,4 +17,4 @@ COPY . .
 # EXPOSE 5000
 
 # Command to run the application
-CMD ["python", "rag_app_gui.py"]
+CMD ["python", "rag_app.py"]
